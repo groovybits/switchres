@@ -1,0 +1,6 @@
+#define VERSION "1.484-970a03a"
+#define NUMBER_VERSION "1.484-970a03a"
+#define SYSTEM_VERSION "Linux mcp 2.6.38-rc4-git4+ #7 SMP Mon Feb 14 02:15:06 CST 2011 x86_64 Intel(R) Xeon(TM) CPU 3.40GHz GenuineIntel GNU/Linux"
+#define BUILD_DATE "Sat Feb 19 22:01:35 CST 2011"
+#define MACHINE "x86_64"
+#define OS "Linux"
